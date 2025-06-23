@@ -7,29 +7,6 @@ We’ll use a simple NGINX web server as an example and walk through every step 
 
 ## 🗺️ Diagram: How It Works
 
-[You (DevOps/Beginnner)]
-          |
-          v
-   [Write pod.yaml file]
-          |
-          v
- [kubectl apply -f pod.yaml]
-          |
-          v
- [Kubernetes API Server]
-          |
-          v
-   [Kubernetes Node]
-          |
-          v
- [NGINX Pod Runs on Node]
-          |
-          v
-   [Check Status/Logs]
-          |
-          v
-      [Success!]
-
 ![ChatGPT Image Jun 23, 2025, 09_43_37 AM](https://github.com/user-attachments/assets/a418a569-9d42-40a7-a7fc-78c3e3f321c4)
 
 
