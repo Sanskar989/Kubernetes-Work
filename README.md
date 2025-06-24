@@ -222,7 +222,7 @@ User → (LoadBalancer Service) → Mongo-Express Pod → (Internal Service) →
 
 ---
 
-**Author:**
+**Made by:**
 **Sanskar Goyal**
 
 ---
